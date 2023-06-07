@@ -13,7 +13,7 @@ The terminal interface is designed to resemble a classic Linux terminal with a m
 ## Features
 
 - Emulates a Linux terminal in the browser
-- Cool and stylish design with a customizable background image
+- Customizable background image
 - Transparent panel for a modern look
 - Syntax highlighting for the command prefix
 - Scrollable content area to view command history
@@ -23,7 +23,7 @@ The terminal interface is designed to resemble a classic Linux terminal with a m
 
 To use the Linux Terminal project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/linux-terminal.git](https://github.com/kristianbc/Terminal.git`
+1. Clone the repository: `https://github.com/kristianbc/Terminal.git`
 2. Open the `index.html` file in your web browser.
 3. Start interacting with the terminal.
 
@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding this project, please feel free to contact me:
 
-- Email: [your email address]
-- GitHub: [your GitHub username]
-- Twitter: [your Twitter handle]
+- Email: [kristian.pastucha123@gmail.com]
+- GitHub: [kristianbc]
+- Twitter: [@kristianbc1]
 
