@@ -2,7 +2,7 @@
 
 Still broken.
 
-![Terminal Preview](terminal-preview.png)
+![Terminal Preview](assets/terminal-preview.png)
 
 ## Description
 
