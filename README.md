@@ -1,6 +1,6 @@
 # Linux Terminal
 
-A web-based Linux terminal simulation with a cool and stylish design.
+Still broken.
 
 ![Terminal Preview](terminal-preview.png)
 
